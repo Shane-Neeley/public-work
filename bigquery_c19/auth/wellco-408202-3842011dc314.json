@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wellco-408202",
+  "private_key_id": "3842011dc314bd297325768fa1b5c406be0d12c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgdFNFxmSmMKSI\n/OqfisJfMCqVad3CnsP/2dr0q4l0CdpckSgjukfZ73y2QSfRXYPHGhAG2bz/nCe+\nKC4mHRQkGYdxJ8Ha7vsNqLWBjk6iO7t7s97Dy4eEAvzu4QGmR2NCA5JB0c89ZE4x\nDWSf46zrhGurBd+4dG4GKaiwrtOMd3ATw6T3KNVrzMZ4VM+KK51YDaR+7QBr13jN\nItSJIilhFyNqEeQEuccMu1byC/oZgVDaeQQoFgsb2z20oDPeBndrKG4uokyQYJUx\n/6FH18pRHC5EExh6WizscsYzBkoIWD95aVwK79LVPEgiqcGu3O7O7rqO8PH+TOA2\n7dnl0o+9AgMBAAECggEAOod0QMWHvV+NBTNM2nmhQVuujOYbMHz9ffyX9BwGfb+C\nWbXRcIbo4sSLN2g5ABQel6gYJIeUe6EYljLN8rU0vZ5aW5pnCleWWHssCmBAqskj\nMJKCNeWuPydf4DtPgLoVqOTomv3PnNNT+myqQfCpCRg6th3kZ8KAx9q2YAzFujza\nZsD7rIgf045gRL6qB+7ixxsvzzMwf/E4ZLviVO7Fga2ieK5rhKMUjJVfZbq2MLVf\nG5PeILP9Nqvbt7+/Qzh5evayes1Xl9ip72ppWN9FCmLN85OVzsj37CJ3tf3NjQAC\nZIFxSadjjAIITe4KV45qTxIyepIQT0pU9dEtQjAwuQKBgQDi0wOf0LRHZjxgT1hK\n2BX6bV9U1t48WBysJnx08OHdGa1eSLfpMmjaDBQziOEAVNJf+3JotiACJmfW/I8j\nqvbReUKGBjWf1rpcXG6AEWJAsnoil8mBQLC9BpzLAAdJX4XeG6Tsh9G7KdnqaACS\n3u74apicwJszmgGjt7Fo9zPA5wKBgQC1F9mLe/R52aKbBvdDR/PPnVKB1TdE47cc\nsAcVCFvFhFq2TmHhbkqS1vRTgIhren+yTSSHvDab2jfQez9bQaYpMhVlEYgKq3fm\nHr7u2Nv6IMQCex5VpEo1ZUOeHXShfoGO6kmWsaZg9zSoj7G5tQr2e6z9Ts+eow+W\nMNOBtWZBuwKBgHiNzo9STX7lR5GomjStRIElQFXHHbbU3ehhTCSbInBxBUPnQlgf\nArthUBtT1MJoUqfQ7K3anoiGAQqykSFT7HrJCCJTioy5g7MzLUfD9YSNV3yrT93y\nk/zjVtJN4ZGNw4iZCL7uMPpY9Akx3ZwyALDndtVZSSPT5qstJo2zVT5hAoGBAKnf\nKW4yZG44vNN3gVJXmFlUViT8ANBaW1ZJuRr9sDhjo0QH2sFAWCvN/3qkw1MuocJ7\nopzA7OjdliW2twO/XUKffHpGK7r2hY4ToT8jpZXITpWVMCtd5U6ZIwia0OD8bkPF\neiolktC6k2bbA/gT36i+8tLart88Tk6wlnbB1p4pAoGBALu6/S6vY+F58y5TnkYM\n6BgJQlXJLT1epKCujc9k5TKY3HPvrsL0VDKWAPC1qwz+xOyL6FI9IaA71ybmQvX3\nRDasJPKeOh7k7nYJchGGCRhVviKSVCqI+htSi7VdQ/lPy8GxrXc7fEW2ofBBJo4r\n8ZZU5yEOZRMOtfTZuebk03u1\n-----END PRIVATE KEY-----\n",
+  "client_email": "wellco@wellco-408202.iam.gserviceaccount.com",
+  "client_id": "112629854311529827086",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wellco%40wellco-408202.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
