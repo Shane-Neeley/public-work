@@ -1,0 +1,10 @@
+pandas==2.1.4
+matplotlib==3.8.2
+google-cloud-bigquery==3.14.1
+db_dtypes
+seaborn==0.13.0
+
+# Optional for Google Cloud project authentication (not needed for public datasets)
+# google-auth==2.1.2
+# google-auth-oauthlib==0.9.4
+# requests==2.30.0
