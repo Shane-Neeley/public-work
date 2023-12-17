@@ -1,4 +1,4 @@
-bigquery/auth/*
+bigquery_c19/auth/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
