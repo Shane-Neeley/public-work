@@ -84,9 +84,7 @@ FROM
 
 Note, this is still not too useful as highest_monthly_confirmed_cases is on each of the 60,000 rows. Tried adding a GROUP BY, but that errored. Haven't figured out how to do this in SQL alone yet.
 
-However, I did additional analysis in exploratory step to get this neat chart. It uses the above query, but then uniques it per state, and then I divide that by the population of the state to get a per capita number. This is a much more useful metric.
-
-> ![Highest Cases in A month Per State Per Capita](img/highest_cases_month_state.png)
+However, I did additional analysis in exploratory step to get a neat chart. It uses the above query, but then uniques it per state, and then I divide that by the population of the state to get a per capita number. This is a much more useful metric. See exercise 2.c below.
 
 ------
 
@@ -181,6 +179,12 @@ The day 2022-11-11 in NY had a very high spike in cases. There may be a narrativ
 The case spikes labeled as anomaly at the end of 2021 and beginning of 2022 could be due to virus evolution. I found an [article](https://www.washingtonpost.com/health/interactive/2022/omicron-comparison-cases-deaths-hospitalizations/) with a chart where these dates overlap with the onset of the Omicron variant: 
 
 > ![Omicron Variant](img/omicron.png)
+
+#### 2.c
+
+Highest cases in a month per state per capita.
+
+> ![Highest Cases in A month Per State Per Capita](img/highest_cases_month_state.png)
 
 ---
 
