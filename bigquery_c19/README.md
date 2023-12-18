@@ -84,7 +84,7 @@ FROM
 
 Note, this is still not too useful as highest_monthly_confirmed_cases is on each of the 60,000 rows. Tried adding a GROUP BY, but that errored. Haven't figured out how to do this in SQL alone yet.
 
-However, I did additional analysis in exploratory step to get this neat chart:
+However, I did additional analysis in exploratory step to get this neat chart. It uses the above query, but then uniques it per state, and then I divide that by the population of the state to get a per capita number. This is a much more useful metric.
 
 > ![Highest Cases in A month Per State Per Capita](img/highest_cases_month_state.png)
 
